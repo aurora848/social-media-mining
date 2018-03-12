@@ -1,3 +1,3 @@
-Social Media Mining - #MeToo
+Social Media Mining
 
-Using web scraper to extract data. Credit - https://github.com/Jefferson-Henrique/GetOldTweets-python
+Sentiment Analysis on Twitter feed - #MeToo
