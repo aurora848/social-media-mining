@@ -35,8 +35,8 @@ PNratio = |Tweets with Positive Sentiment|<br />
           ________________________________<br />
           |Tweets with Negative Sentiment|
 
-![Subjectivity Values in continuous bi-weekly bins](smm_files/subject.png)
-![Polarity Values in continuous bi-weekly bins](smm_files/polar.png)
+![Subjectivity Values in continuous bi-weekly bins](smm_files/subject.png=250x250)
+![Polarity Values in continuous bi-weekly bins](smm_files/polar.png=250x250)
 
 Now we use the 10K dataset to analyze the features that make a tweet popular. The initial hypothesis was that more than the content of the features, it would be the number of followers a user has that would make the tweet popular.
 We have used the methods described by "Predicting Popular Messages in Twitter"[12] by Liangjie Hong Ovidiu Dan Brian D. Davison and "Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network"[10] by Bongwon Suh, Lichan Hong, Peter Pirolli, and Ed H. Chi for our analysis.
@@ -54,7 +54,7 @@ We fit logistic regression model with 5-fold cross validation separately on each
 | Metadata Information	| 0.48      |
 | Followers_Count	      | 0.48      |
 
-![Scatter plot of retweet bin against number of messages](smm_files/scatter_bin.png)
+![Scatter plot of retweet bin against number of messages](smm_files/scatter_bin.png=250x250)
 
 ## Conclusion
 
