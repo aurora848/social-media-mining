@@ -16,7 +16,7 @@ Tweets are characterized as short messages with a limit of 140 characters (incre
 
 We collected two datasets for the analysis. As part of content analysis for sentiment classification we gathered tweets scraping the web and collecting approximately 2 million tweets. For the tweet popularity analysis, we have collected 75 thousand tweets using the Twitter API with user features.
 
-![Tweets count histogram starting from October 15, 2017](smm_files/data_hist.png)
+Tweets count histogram starting from October 15, 2017![Tweets count histogram starting from October 15, 2017](smm_files/data_hist.png){:height="36px" width="36px"}
 
 ## Sentiment Classification
 
@@ -37,8 +37,8 @@ PNratio = |Tweets with Positive Sentiment|<br />
           ________________________________<br />
           |Tweets with Negative Sentiment|
 
-![Subjectivity Values in continuous bi-weekly bins](smm_files/subject.png =250x250)
-![Polarity Values in continuous bi-weekly bins](smm_files/polar.png =250x250)
+Subjectivity Values in continuous bi-weekly bins![Subjectivity Values in continuous bi-weekly bins](smm_files/subject.png){:height="36px" width="36px"}
+Polarity Values in continuous bi-weekly bins![Polarity Values in continuous bi-weekly bins](smm_files/polar.png){:height="36px" width="36px"}
 
 ## Popularity of a Tweet
 
@@ -55,7 +55,7 @@ We fit logistic regression model with 5-fold cross validation separately on each
 | Metadata Information	| 0.48      |
 | Followers_Count	      | 0.48      |
 
-![Scatter plot of retweet bin against number of messages](smm_files/scatter_bin.png =250x250)
+Scatter plot of retweet bin against number of messages![Scatter plot of retweet bin against number of messages](smm_files/scatter_bin.png){:height="36px" width="36px"}
 
 ## Conclusion
 
