@@ -34,8 +34,8 @@ Subjectivity = |Positive and Negative Tweets|<br />
 
 
 PNratio = |Tweets with Positive Sentiment|<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; __________________________________<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tweets with Negative Sentiment|
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ______________________________________<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tweets with Negative Sentiment|
 
 <img src="smm_files/subject.png" align="center" height="350">
 <img src="smm_files/polar.png" align="center" height="350">
