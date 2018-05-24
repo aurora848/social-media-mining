@@ -29,13 +29,13 @@ Using the formula defined in “Predicting the Future with Social Media” [9] b
 We have captured subjectivity and polarity as follows,
 
 Subjectivity = |Positive and Negative Tweets|<br />
-               ______________________________<br />
-                        |Neutral Tweets|
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ______________________________<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Neutral Tweets|
 
 
 PNratio = |Tweets with Positive Sentiment|<br />
-          ________________________________<br />
-          |Tweets with Negative Sentiment|
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ________________________________<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Tweets with Negative Sentiment|
 
 <img src="smm_files/subject.png" align="center" height="350">
 <img src="smm_files/polar.png" align="center" height="350">
