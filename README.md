@@ -30,7 +30,7 @@ We have captured subjectivity and polarity as follows,
 
 Subjectivity = |Positive and Negative Tweets|<br />
                ______________________________<br />
-		              |Neutral Tweets|
+                        |Neutral Tweets|
 
 
 PNratio = |Tweets with Positive Sentiment|<br />
