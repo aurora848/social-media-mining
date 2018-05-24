@@ -16,7 +16,7 @@ Tweets are characterized as short messages with a limit of 140 characters (incre
 
 We collected two datasets for the analysis. As part of content analysis for sentiment classification we gathered tweets scraping the web and collecting approximately 2 million tweets. For the tweet popularity analysis, we have collected 75 thousand tweets using the Twitter API with user features.
 
-Tweets count histogram starting from October 15, 2017![Tweets count histogram starting from October 15, 2017](smm_files/data_hist.png){:height="36px" width="36px"}
+<img src="smm_files/data_hist.png" align="center" height="36">Tweets count histogram starting from October 15, 2017</img>
 
 ## Sentiment Classification
 
